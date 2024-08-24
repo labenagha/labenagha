@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud infrastructure, DevOps practices, and Infrastructure as Code (IaC) automation.
 - 🌱 I’m currently learning more about advanced cloud security practices, CI/CD pipelines, and Kubernetes orchestration.
 - 💞️ I’m looking to collaborate on open-source cloud infrastructure tools, especially those related to Azure, Terraform, and automating cloud best practices.
-- 📫 How to reach me: You can reach me through my GitHub profile or via email at [labenagha@gmail.com].
+- 📫 How to reach me: You can reach me through my GitHub profile or via email at labenagha@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about optimizing cloud environments and love building tools that make cloud infrastructure more efficient and secure.
 
