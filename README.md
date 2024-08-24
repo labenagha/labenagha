@@ -6,7 +6,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about optimizing cloud environments and love building tools that make cloud infrastructure more efficient and secure.
 
-I’m currently working on a project called **Azure CAF Naming Enforcer**. The tool enforces Azure Cloud Adoption Framework (CAF) naming conventions in Terraform files. It validates resource names for resource groups, virtual machines, and DNS zones against customizable rules, ensuring that cloud resources follow organizational standards before deployment. The project is designed to be integrated into CI/CD pipelines, helping teams automate infrastructure best practices and avoid misconfigurations.
+I’m currently working on a project called **Azure CAF Naming Enforcer**. The tool enforces Azure Cloud Adoption Framework (CAF) naming conventions in Terraform files.
+
+It validates resource names for resource groups, virtual machines, and DNS zones against customizable rules, ensuring that cloud resources follow organizational standards before deployment. 
+
+The project is designed to be integrated into CI/CD pipelines, helping teams automate infrastructure best practices and avoid misconfigurations.
 
 <!---
 labenagha/labenagha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
